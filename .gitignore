@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+**/__pycache__/
+**/Videos/
+**/Backup/
+**/latex_source_*.zip
+Projects/Geo-locationOfGermanTweets/data/embeddings/
+Projects/Geo-locationOfGermanTweets/data/level_one/backup/
+Projects/Geo-locationOfGermanTweets/catboost_info/
+Projects/Geo-locationOfGermanTweets/papers/

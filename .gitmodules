@@ -1,0 +1,3 @@
+[submodule "Projects/Kaggle-Competition"]
+	path = Projects/Kaggle-Competition
+	url = https://github.com/AdrianIordache/Geo-locationOfGermanTweets
