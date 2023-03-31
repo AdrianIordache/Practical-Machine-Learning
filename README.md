@@ -11,11 +11,11 @@ Course taught during the Artificial Intelligence master's program, 1st Year, 1st
 
 ***Exam: 60% Assignment 1 + 40% Assignment 2***  
 
-# Supervised Learning Task: [Geo-locationOfGermanTweets](https://www.kaggle.com/c/pml-2020-unibuc/overview) 
+## Supervised Learning: [Geo-locationOfGermanTweets](https://www.kaggle.com/c/pml-2020-unibuc/overview) 
 ### [Kaggle Competition: 2nd Place Solution](https://www.kaggle.com/c/pml-2020-unibuc/overview)
 ![Cover Image | 1000x800](https://github.com/AdrianIordache/Geo-locationOfGermanTweets/blob/master/images/solution.png)
 
-# Unsupervised Learning Task: Clustering for Amazon Reviews
+## Unsupervised Learning: Clustering for Amazon Reviews
 ### Using K-Means Clustering & Gaussian Mixture Models
 
 ![ratings](https://user-images.githubusercontent.com/37110622/229195821-948e2286-787b-4274-a10d-760e621993b7.jpg)
